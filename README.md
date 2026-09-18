@@ -20,25 +20,19 @@ The **Event Ticket Booking & Management System** is a console-based transaction 
 
 ### Prerequisites
 Make sure you have **Python 3.x** installed on your system. You can verify your installation by running:
-```bash
+
 python --version
-```
 
 ### Installation
 1. Clone this repository to your local machine:
-   ```bash
    git clone https://github.com
-   ```
 2. Navigate into the project repository folder:
-   ```bash
    cd event-ticket-booking
-   ```
 
 ### Running the Application
 Launch the text-driven interactive console engine using the standard Python interpreter:
-```bash
+
 python main.py
-```
 
 ## Instructions for Testing
 Run the application and input the following test inputs inside the interactive console menu interface to verify the integrity rules:
